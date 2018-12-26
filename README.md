@@ -15,7 +15,7 @@ Sync的各种稳定性和性能改进
 
 
 
-postman下载地址：
+Postman下载地址：
 
 
 1.Postman for MAC
@@ -28,7 +28,7 @@ postman下载地址：
 
 5.Postman for Linux X86
 
-2.Postman官网下载地址：
+Postman官网下载地址：
             https://www.getpostman.com/apps
 
 
