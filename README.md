@@ -15,7 +15,7 @@ Sync的各种稳定性和性能改进
 
 
 
-1.postman下载地址：
+postman下载地址：
 
 
 1.Postman for MAC
