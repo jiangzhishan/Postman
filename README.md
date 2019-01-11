@@ -28,8 +28,7 @@ Postman下载地址：
 
 5.Postman for Linux X86 http://chromecj.com/web-development/2017-09/60.html
 
-Postman官网下载地址：
-            https://www.getpostman.com/apps
+Postman官网下载地址： https://www.getpostman.com/apps
 
 
 
