@@ -18,15 +18,15 @@ Sync的各种稳定性和性能改进
 Postman下载地址：
 
 
-1.Postman for MAC
+1.Postman for MAC http://chromecj.com/web-development/2017-09/60.html
 
-2.Postman for windows X64
+2.Postman for windows X64 http://chromecj.com/web-development/2017-09/60.html
 
-3.Postman for windows X32
+3.Postman for windows X32 http://chromecj.com/web-development/2017-09/60.html
 
-4.Postman for linux X64
+4.Postman for linux X64 http://chromecj.com/web-development/2017-09/60.html
 
-5.Postman for Linux X86
+5.Postman for Linux X86 http://chromecj.com/web-development/2017-09/60.html
 
 Postman官网下载地址：
             https://www.getpostman.com/apps
